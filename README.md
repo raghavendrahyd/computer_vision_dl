@@ -1,8 +1,6 @@
 # Computer Vision and Deep Learning
 # =================
 
-
-# Introduction
 This repo contains my exploration of computer vision models for various application like image classification, object detection, image segmentation, image generation etc.
 #### 1. CNNs [CNNS.ipynb and cnn_architectures.ipynb]: 
 Built classification models through different simple CNNs as well as some famous models like LeNet, AlexNet, VGG, ResNet on Pytorch.
